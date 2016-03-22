@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lzu</string>
+    <string name="main_title">兰州大学校园网认证</string>
+    <string name="lzu_edu_cn">\@lzu.edu.cn</string>
+    <string name="username">账号</string>
+    <string name="password">密码</string>
+</resources>
